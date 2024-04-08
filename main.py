@@ -1,6 +1,6 @@
 from data import data
 from helper import functions
-print(functions.getRandomWord())
+
 
 
 def hangMan ():
